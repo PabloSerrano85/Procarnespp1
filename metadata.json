@@ -1,0 +1,8 @@
+{
+  "name": "ROCCA",
+  "description": "ROCCA — Registro Provincial de Operadores de la Carne (Módulo I: Padrón, Jerarquía, Inscripción F 102 y Emisión de Cartón Oficial)",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

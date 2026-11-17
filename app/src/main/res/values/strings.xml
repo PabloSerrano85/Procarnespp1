@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ROCCA</string>
+    <string name="app_subtitle">Registro de Operadores y Control de la Cadena Cárnica</string>
+    <string name="institution_badge">GOBIERNO DE SANTIAGO DEL ESTERO</string>
+    <string name="institution_dept">Dirección General de Agricultura y Ganadería • ProCarne Fiscalización</string>
+    <string name="login_tab">Iniciar sesión</string>
+    <string name="signup_tab">Crear cuenta</string>
+    <string name="nav_operadores">Operadores</string>
+    <string name="nav_padron">Padrón</string>
+    <string name="nav_jerarquia">Jerarquía</string>
+    <string name="nav_inscripcion">Inscripción F 102</string>
+    <string name="nav_modulos">Módulos</string>
+</resources>
